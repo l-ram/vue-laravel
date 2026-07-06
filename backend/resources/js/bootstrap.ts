@@ -1,0 +1,1 @@
+// bootstrap.js can be empty for Inertia-only apps
